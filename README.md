@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/252166785.svg)](https://zenodo.org/badge/latestdoi/252166785)
+
+
 
 This repository contains the code required to reproduce the results of this manuscript. For all additional information contact the [corresponding author](mirzaceng@gmail.com).
 
