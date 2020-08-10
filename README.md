@@ -4,7 +4,7 @@
 
 This repository contains the code required to reproduce the results of this manuscript. For all additional information contact the [corresponding author](mirzaceng@gmail.com).
 
-Affiliated data can be retrieved from the DANS EASY repository, using [this link](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:170458) (https://doi.org/10.17026/dans-2zt-er8k).
+Affiliated data can be retrieved from the DANS EASY repository, using [this link](https://easy.dans.knaw.nl/ui/datasets/id/easy-dataset:170458){target="_blank"} (https://doi.org/10.17026/dans-2zt-er8k){target="_blank"}.
 
 ---
 
